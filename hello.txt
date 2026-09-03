@@ -2,4 +2,8 @@ Hello,github!
 aaaaa
 bbbbb
 ccccc
+<<<<<<< HEAD
 
+=======
+ddddd
+>>>>>>> 78ff3ff98723961a1edce1ba0c44064aa35cf2f7
